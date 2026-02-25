@@ -1,2 +1,2 @@
-# Ai-model
-Gan model for image generation
+# AI- model
+Gan model for image generation, anime face inhancement
